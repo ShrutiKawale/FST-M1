@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SeleniumProject" >
+    <test name="Activities" >
+        <classes>
+            <class name="Activities.ActivityOne"/>
+            <class name="Activities.ActivityTwo"/>
+            <class name="Activities.ActivityThree"/>
+            <class name="Activities.ActivityFour"/>
+            <class name="Activities.ActivityFive"/>
+            <class name="Activities.ActivitySix"/>
+            <class name="Activities.ActivitySeven"/>
+            <class name="Activities.ActivityEight"/>
+        </classes>
+    </test>
+</suite>
